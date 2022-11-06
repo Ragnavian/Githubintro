@@ -6,3 +6,5 @@ Bananas
 Kiwis
 Avocados
 Cereal
+Cucumbers
+Radishes
